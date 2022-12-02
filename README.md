@@ -12,3 +12,4 @@ I'd love to collaborate on projects. Here are my interests although I am open to
 - Signal Processing (Acquiring, preprocessing/filtering, feature extraction for pattern recognition)
 - Research (Literature research, data analysis and modeling, etc.)
 
+Will be adding Projects with skill tags
